@@ -101,7 +101,7 @@ To get a local copy up and running, follow these steps.
 
 You can download the **.jar file** from this repo to try the project yourself:  
 
-👉 [Real Time Currency Converter.jar](assets/Real%20Time%20Currency%20Converter.jar)
+👉 [Real Time Currency Converter.jar](Real%20Time%20Currency%20Converter.jar)
 
 Run it directly or from your command prompt with:
 
