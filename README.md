@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div>
+<div align="center">
   <a href="https://github.com/Puwentao-Yan/Currency-Converter">
   </a>
 
@@ -101,4 +101,4 @@ To get a local copy up and running, follow these steps.
 * [Java Program to Convert Currency using AWT](https://www.geeksforgeeks.org/java/java-program-to-convert-currency-using-awt/)
 * [Free Currency Exchange Rates API](https://github.com/fawazahmed0/exchange-api)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
