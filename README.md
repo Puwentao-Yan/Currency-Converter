@@ -38,19 +38,37 @@
 The **Java Currency Converter** project was designed in **three iterations**, each adding new functionality and complexity:
 
 - **Iteration 1 (Console)**:  
-  Command-line interface with basic, preprogrammed exchange rates.  
+  Command-line interface with basic, preprogrammed exchange rates.
+  <br />
+  <details>
+    <summary>▶ Show Demo</summary>
+    
+  ![Currency_Converter_Iteration1](assets/Currency%20Converter%20V1.gif "Console Currency Converter")
+  
+  </details>
 
 - **Iteration 2 (Swing GUI)**:  
-  A Java Swing-based graphical user interface with preprogrammed rates.  
+  A Java Swing-based graphical user interface with preprogrammed rates.
+  <br />
+  <details>
+    <summary>▶ Show Demo</summary>
+    
+  ![Currency_Converter_Iteration2](assets/Currency%20Converter%20V2.gif "Swing GUI Currency Converter")
+  
+  </details>
+  
 
 - **Iteration 3 (Enhanced Swing GUI with API)**:  
-  A redesigned GUI with **live currency exchange rates**, updated daily via a JSON API, and a newly designed conversion algorithm.  
+  A redesigned GUI with **live currency exchange rates**, updated daily via a JSON API, and a newly designed conversion algorithm.
+  <br />
+  <details>
+    <summary>▶ Show Demo</summary>
+    
+  ![Currency_Converter_Iteration3](assets/Currency%20Converter%20V3.gif "Enhanced Swing GUI with Live Rates")
+  
+  </details>
 
 This project demonstrates incremental software development — evolving from a simple console app into a functional GUI with real-world data integration.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -59,7 +77,6 @@ This project demonstrates incremental software development — evolving from a s
 * [org.json](https://stleary.github.io/JSON-java/) – JSON parsing
 * [Free Currency Exchange Rates API](https://github.com/fawazahmed0/exchange-api) – free daily currency exchange rates
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -79,9 +96,9 @@ To get a local copy up and running, follow these steps.
    ```sh
    git clone https://github.com/Puwentao-Yan/Currency-Converter.git
 
-## Usage
-
 ## Acknowledgments
 
 * [Java Program to Convert Currency using AWT](https://www.geeksforgeeks.org/java/java-program-to-convert-currency-using-awt/)
 * [Free Currency Exchange Rates API](https://github.com/fawazahmed0/exchange-api)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
