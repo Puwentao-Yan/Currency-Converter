@@ -25,7 +25,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#download-demo">Download Demo</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -95,6 +95,19 @@ To get a local copy up and running, follow these steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/Puwentao-Yan/Currency-Converter.git
+
+<!-- DOWNLOAD DEMO -->
+## Download Demo
+
+You can download the **.jar file** from this repo to try the project yourself:  
+
+👉 [Real Time Currency Converter.jar](assets/Real%20Time%20Currency%20Converter.jar)
+
+Run it directly or from your command prompt with:
+
+```sh
+java -jar "Real Time Currency Converter.jar"
+```
 
 ## Acknowledgments
 
